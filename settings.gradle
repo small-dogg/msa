@@ -1,1 +1,14 @@
 rootProject.name = 'msa'
+
+include 'security'
+include 'payment'
+include 'manage'
+include 'report'
+include 'scheduler'
+include 'security'
+include 'manage'
+include 'payment'
+include 'core'
+include 'report'
+include 'schedule'
+
