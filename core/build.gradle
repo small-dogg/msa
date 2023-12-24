@@ -2,8 +2,8 @@ plugins {
     id 'java'
 }
 
-group = 'com.smalldogg'
-version = '0.0.1-SNAPSHOT'
+group = 'org.example'
+version = 'unspecified'
 
 repositories {
     mavenCentral()
