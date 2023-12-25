@@ -3,5 +3,5 @@ rootProject.name = 'msa'
 include 'eureka'
 include 'gateway'
 include 'core'
-include 'security'
+include 'payment'
 
